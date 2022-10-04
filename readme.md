@@ -1,0 +1,1 @@
+1. [Apache Calcite: A Foundational Framework for Optimized Query Processing Over Heterogeneous Data Sources](./papers/Apache_Calcite-A_Foundational_Framework_for_Optimized_Query_Processing_Over_Heterogeneous_Data_Sources.pdf)
